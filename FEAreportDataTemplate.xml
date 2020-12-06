@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<reportData  xmlns="foley10x.com/schemas/feaData">
+  <studyProperties>
+    <studyName displayLabel="Study name">place holder</studyName>
+    <analysisType displayLabel="Analysis type">place holder</analysisType>
+    <solverType displayLabel="Solver type">place holder</solverType>
+    <useInplaneEffect displayLabel="Inplane Effect">place holder</useInplaneEffect>
+    <useSoftSpring displayLabel="Soft Spring">place holder</useSoftSpring>
+    <useIniterialRelief displayLabel="Inertial Relieve">place holder</useIniterialRelief>
+    <incompatibleBonding displayLabel="Incompatible bonding options">place holder</incompatibleBonding>
+    <useLargeDisplacement displayLabel="Large displacements">place holder</useLargeDisplacement>
+    <computeFreeBodyForces displayLabel="Compute free body forces">place holder</computeFreeBodyForces>
+    <useFriction displayLabel="Friction">place holder</useFriction>
+    <useAdaptiveMethod displayLabel="Use adaptive method">place holder</useAdaptiveMethod>
+  </studyProperties>
+  <meshProperties>
+    <meshType displayLabel="Mesh type">place holder</meshType>
+    <mesherUsed displayLabel="Mesher used">place holder</mesherUsed>
+    <elementCount displayLabel="Number of elements">place holder</elementCount>
+    <jacobianPoints displayLabel="Jacobian points">place holder</jacobianPoints>
+    <jacobianCheckForShell displayLabel="Jacobian check for shell">place holder</jacobianCheckForShell>
+    <defaultElementSize displayLabel="Default element size">place holder</defaultElementSize>
+    <elementSize displayLabel="Element size">place holder</elementSize>
+    <meshQuality displayLabel="Mesh quality plot">place holder</meshQuality>
+    <worstJacobian displayLabel="Worst Jacobian Ratio">place holder</worstJacobian>
+  </meshProperties>
+  <materials>
+    <material>
+      <materialName displayLabel="Name">place holder</materialName>
+      <materialType displayLabel="Material type">place holder</materialType>
+      <materialModelType displayLabel="Material model type">place holder</materialModelType>
+      <yield displayLabel="Yield strength">place holder</yield>
+      <tensile displayLabel="Tensile strength">place holder</tensile>
+      <E displayLabel="Elastic modulus">place holder</E>
+      <nu displayLabel="Poisson's ration">place holder</nu>
+      <density displayLabel="Mass density">place holder</density>
+      <G displayLabel="Shear modulus">place holder</G>
+    </material>
+  </materials>
+  <restraints>
+  </restraints>
+  <loads>
+  </loads>
+</reportData>
