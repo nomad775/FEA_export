@@ -8,7 +8,8 @@ The SWP file is the SolidWorks macro which is a binary file.  The .BAS files are
 The XML file is the template used for creating the data file.
 
 ## References
-This macro requires a reference to the MicroSoft MSXML v6.0.  
+This macro requires a reference to the MicroSoft MSXML v6.0.
+It also references the SolidWorsk Simulation 2020 type library, which needs to be updated for newer versions or switched to late binding.
 To add this reference, in the VBA editor select the Tools menu, select References, find and check "Microsoft XML, v6.0"
 
 ## What It Does
